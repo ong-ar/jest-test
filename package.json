@@ -1,0 +1,8 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ong-ar/jest-test.git",
+  "author": "ong-ar",
+  "license": "MIT"
+}
