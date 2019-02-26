@@ -1,8 +1,24 @@
 {
   "name": "jest-test",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.tsx",
   "repository": "https://github.com/ong-ar/jest-test.git",
   "author": "ong-ar",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.11.0",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.5",
+    "@types/react-dom": "^16.8.2",
+    "@types/react-router-dom": "^4.3.1",
+    "typescript": "^3.3.3333"
+  }
 }
