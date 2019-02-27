@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test 1`] = `
+<header
+  className="sc-bdVaJa bYVwNq"
+>
+  <h2
+    className="sc-bwzfXH cKLoJe"
+  >
+    ddd
+  </h2>
+</header>
+`;
